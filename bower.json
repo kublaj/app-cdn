@@ -1,0 +1,21 @@
+{
+  "name": "app-server",
+  "authors": [
+    "Simpla <admin@simpla.io>"
+  ],
+  "description": "Serve Simpla",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "simpla": "^1.2.3"
+  }
+}
